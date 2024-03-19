@@ -1,0 +1,55 @@
+PART ONE:
+
+- What is HTTP?
+	HTTP is a protocol that standardizes how servers send and receive data.
+
+	
+- What is a URL?
+	A URL is an address for a website.
+
+
+- What is DNS?
+	A DNS converts a URL into an IP address
+
+
+- What is a query string?
+	A query string is a key-value pair entered into the URL which is then used by the website to access some data.
+
+
+- What are two HTTP verbs and how are they different?
+	GET: gets data from a server
+	POST: sends data to a server
+
+
+- What is an HTTP request?
+	An HTTP request asks a server for information that follows HTT
+
+
+- What is an HTTP response?
+	An HTTP response is a response from a server for an HTTP request.
+
+
+- What is an HTTP header? Give a couple examples of request and response headers you have seen.
+	An HTTP header gives additional information for or about an HTTP request/response
+
+	An example of an HTTP header is Content-Language which designates what natural language the content of the page is returned in.
+
+
+
+- What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+	The named is turned into an IP address via DNS
+	A request is sent to that IP address
+	A server sends a response
+	The content is loaded into the browser and the browser creates a DOM and requests additional resources such as script & style files, and images.
+
+
+
+
+
+PART 3
+
+;; ANSWER SECTION:
+icanhazdadjoke.com.	300	IN	A	104.21.66.15
+icanhazdadjoke.com.	300	IN	A	172.67.198.173
+
+
